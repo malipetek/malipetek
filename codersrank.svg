@@ -30,6 +30,13 @@
      transform="translate(-14,-18)"
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
      id="g686">
+    <rect
+       y="8.439168"
+       x="11.386005"
+       height="405.16916"
+       width="363.34525"
+       id="rect1858"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.83950013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g6"
@@ -80,94 +87,9 @@
        id="g26"
        stroke-miterlimit="2" />
     <g
-       style="fill:#808080;fill-opacity:0.29803898;stroke:none"
-       id="g30">
-      <path
-         style="vector-effect:none;fill:#808080;fill-rule:evenodd"
-         id="path28"
-         d="m 21,101 h 315 v 60 H 21 v -60" />
-    </g>
-    <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g32"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#808080;fill-opacity:0.29803898;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
-       id="g50"
-       stroke-miterlimit="2">
-      <image
-         style="fill:#808080"
-         id="image34"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAK0lEQVQImWPQ1tZmY3r5j0OYie03gyTTH0ZGYSZGhn/sTAwMDAxMDAwMDACEtwXHIeLbtQAAAABJRU5ErkJggg=="
-         preserveAspectRatio="none"
-         height="7"
-         width="315"
-         y="94"
-         x="21" />
-      <image
-         style="fill:#808080"
-         id="image36"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAJ0lEQVQImWMQVzXyYWJgYGCAEP8ZmH4ysfz//5bpFyvDcyZxph9vAW/ECZSKoUFqAAAAAElFTkSuQmCC"
-         preserveAspectRatio="none"
-         height="7"
-         width="315"
-         y="161"
-         x="21" />
-      <image
-         style="fill:#808080"
-         id="image38"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABCAYAAAASC7TOAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIElEQVQImWPU1tZme/mPQ5jtN4PkH0ZGYUaGf+wMUAAAbSEFvDcG/lQAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="60"
-         width="7"
-         y="101"
-         x="14" />
-      <image
-         style="fill:#808080"
-         id="image40"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABCAYAAAASC7TOAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIElEQVQImWMUVzXyYYCC/wxMP1n+/3/7i5XhuTjTj7cAXPsJieDuJYAAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="60"
-         width="7"
-         y="101"
-         x="336" />
-      <image
-         style="fill:#808080"
-         id="image42"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAh0lEQVQImUXJMRKCMBQG4f1fAgoOGsYrpKPkLFzfG9hqRkmejaNbfiv+CTZjvdlSir4AgOWcu3u7HA/W+rrH4EOTAOWc+4ddpoqdqT4G0YErwBY8PUczm8X7KixVMTVpDKxDTK92omkWljBG4RE82lKK6h5DEJ1bjbjLcQEYgA9N4HIPvwHwAQpZLS1i9oBtAAAAAElFTkSuQmCC"
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="94"
-         x="14" />
-      <image
-         style="fill:#808080"
-         id="image44"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAnklEQVQImS3BwUrDQBSG0e/emWkSIm1KpYJIFy7cZOmz9Cn7LC7d9g06CGIaSGZ+Nz3HxnHcAHy3rfh6r3CpgACCnk/Hadp026U0afgJb4deOWcBCsPw+hGcpyrvQvRUrOFl36855xpXswOAwwLLXyFxq7sFzms0amOYcEvUCNK98frL59UdQMiQTF5iMFJZYxjn2SIPQiYFA5k6GcA/E1k/eFhaKKIAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="94"
-         x="336" />
-      <image
-         style="fill:#808080"
-         id="image46"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAkklEQVQImTXJMQ6CQBRF0fs/Q0JiSUFv4gZchzt1LZR09FQTookKw8w8Gz3tseFyvfEjfA9STC3L4Fv0fxgmsyIw2ccF4P/ATFabXMTRhFymrlMQvgvwyoHnF7TvPXtiPNcQpAimIg5o3w312ftjW7nXkFoW+5iakMuePfX+2OZ5PgCFwbfICaauE+O5rtwrIIAvEhxOZofuedIAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="161"
-         x="336" />
-      <image
-         style="fill:#808080"
-         id="image48"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAjklEQVQImUXKMQ6CQBQG4fl3FyGh0VAYE29Aaes1PLqWtsaGWGDAsPuejcGvnVHf95unNd1m4ZClTljNTwDQFBzkUnEhX+O1aTymXIqzyGJGWofI46xq+4oxhUrKCQsyCVCJcOPYtV5UYyTDWBJ8Aj5FgGEYfL9r81jqJQWbc47vUvso/gSXwOke+nkWwBenazovkiNAmwAAAABJRU5ErkJggg=="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="161"
-         x="14" />
-    </g>
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g52"
@@ -237,96 +159,9 @@
        id="g88"
        stroke-miterlimit="2" />
     <g
-       style="fill:#808080;fill-opacity:0.29803898;stroke:none"
-       id="g92"
-       transform="translate(-333,80)">
-      <path
-         style="vector-effect:none;fill:#808080;fill-rule:evenodd"
-         id="path90"
-         d="m 354,101 h 316 v 60 H 354 v -60" />
-    </g>
-    <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g94"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#808080;fill-opacity:0.29803898;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
-       id="g112"
-       transform="translate(-333,80)"
-       stroke-miterlimit="2">
-      <image
-         style="fill:#808080"
-         id="image96"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAK0lEQVQImWPQ1tZmY3r5j0OYie03gyTTH0ZGYSZGhn/sTAwMDAxMDAwMDACEtwXHIeLbtQAAAABJRU5ErkJggg=="
-         preserveAspectRatio="none"
-         height="7"
-         width="316"
-         y="94"
-         x="354" />
-      <image
-         style="fill:#808080"
-         id="image98"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAJ0lEQVQImWMQVzXyYWJgYGCAEP8ZmH4ysfz//5bpFyvDcyZxph9vAW/ECZSKoUFqAAAAAElFTkSuQmCC"
-         preserveAspectRatio="none"
-         height="7"
-         width="316"
-         y="161"
-         x="354" />
-      <image
-         style="fill:#808080"
-         id="image100"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABCAYAAAASC7TOAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIElEQVQImWPU1tZme/mPQ5jtN4PkH0ZGYUaGf+wMUAAAbSEFvDcG/lQAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="60"
-         width="7"
-         y="101"
-         x="347" />
-      <image
-         style="fill:#808080"
-         id="image102"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABCAYAAAASC7TOAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIElEQVQImWMUVzXyYYCC/wxMP1n+/3/7i5XhuTjTj7cAXPsJieDuJYAAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="60"
-         width="7"
-         y="101"
-         x="670" />
-      <image
-         style="fill:#808080"
-         id="image104"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAh0lEQVQImUXJMRKCMBQG4f1fAgoOGsYrpKPkLFzfG9hqRkmejaNbfiv+CTZjvdlSir4AgOWcu3u7HA/W+rrH4EOTAOWc+4ddpoqdqT4G0YErwBY8PUczm8X7KixVMTVpDKxDTK92omkWljBG4RE82lKK6h5DEJ1bjbjLcQEYgA9N4HIPvwHwAQpZLS1i9oBtAAAAAElFTkSuQmCC"
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="94"
-         x="347" />
-      <image
-         style="fill:#808080"
-         id="image106"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAnklEQVQImS3BwUrDQBSG0e/emWkSIm1KpYJIFy7cZOmz9Cn7LC7d9g06CGIaSGZ+Nz3HxnHcAHy3rfh6r3CpgACCnk/Hadp026U0afgJb4deOWcBCsPw+hGcpyrvQvRUrOFl36855xpXswOAwwLLXyFxq7sFzms0amOYcEvUCNK98frL59UdQMiQTF5iMFJZYxjn2SIPQiYFA5k6GcA/E1k/eFhaKKIAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="94"
-         x="670" />
-      <image
-         style="fill:#808080"
-         id="image108"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAkklEQVQImTXJMQ6CQBRF0fs/Q0JiSUFv4gZchzt1LZR09FQTookKw8w8Gz3tseFyvfEjfA9STC3L4Fv0fxgmsyIw2ccF4P/ATFabXMTRhFymrlMQvgvwyoHnF7TvPXtiPNcQpAimIg5o3w312ftjW7nXkFoW+5iakMuePfX+2OZ5PgCFwbfICaauE+O5rtwrIIAvEhxOZofuedIAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="161"
-         x="670" />
-      <image
-         style="fill:#808080"
-         id="image110"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAjklEQVQImUXKMQ6CQBQG4fl3FyGh0VAYE29Aaes1PLqWtsaGWGDAsPuejcGvnVHf95unNd1m4ZClTljNTwDQFBzkUnEhX+O1aTymXIqzyGJGWofI46xq+4oxhUrKCQsyCVCJcOPYtV5UYyTDWBJ8Aj5FgGEYfL9r81jqJQWbc47vUvso/gSXwOke+nkWwBenazovkiNAmwAAAABJRU5ErkJggg=="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="161"
-         x="347" />
-    </g>
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g114"
@@ -396,96 +231,9 @@
        id="g150"
        stroke-miterlimit="2" />
     <g
-       style="fill:#808080;fill-opacity:0.29803898;stroke:none"
-       id="g154"
-       transform="translate(-667,160)">
-      <path
-         style="vector-effect:none;fill:#808080;fill-rule:evenodd"
-         id="path152"
-         d="m 688,101 h 315 v 60 H 688 v -60" />
-    </g>
-    <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g156"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#808080;fill-opacity:0.29803898;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
-       id="g174"
-       transform="translate(-667,160)"
-       stroke-miterlimit="2">
-      <image
-         style="fill:#808080"
-         id="image158"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAK0lEQVQImWPQ1tZmY3r5j0OYie03gyTTH0ZGYSZGhn/sTAwMDAxMDAwMDACEtwXHIeLbtQAAAABJRU5ErkJggg=="
-         preserveAspectRatio="none"
-         height="7"
-         width="315"
-         y="94"
-         x="688" />
-      <image
-         style="fill:#808080"
-         id="image160"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAJ0lEQVQImWMQVzXyYWJgYGCAEP8ZmH4ysfz//5bpFyvDcyZxph9vAW/ECZSKoUFqAAAAAElFTkSuQmCC"
-         preserveAspectRatio="none"
-         height="7"
-         width="315"
-         y="161"
-         x="688" />
-      <image
-         style="fill:#808080"
-         id="image162"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABCAYAAAASC7TOAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIElEQVQImWPU1tZme/mPQ5jtN4PkH0ZGYUaGf+wMUAAAbSEFvDcG/lQAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="60"
-         width="7"
-         y="101"
-         x="681" />
-      <image
-         style="fill:#808080"
-         id="image164"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABCAYAAAASC7TOAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIElEQVQImWMUVzXyYYCC/wxMP1n+/3/7i5XhuTjTj7cAXPsJieDuJYAAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="60"
-         width="7"
-         y="101"
-         x="1003" />
-      <image
-         style="fill:#808080"
-         id="image166"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAh0lEQVQImUXJMRKCMBQG4f1fAgoOGsYrpKPkLFzfG9hqRkmejaNbfiv+CTZjvdlSir4AgOWcu3u7HA/W+rrH4EOTAOWc+4ddpoqdqT4G0YErwBY8PUczm8X7KixVMTVpDKxDTK92omkWljBG4RE82lKK6h5DEJ1bjbjLcQEYgA9N4HIPvwHwAQpZLS1i9oBtAAAAAElFTkSuQmCC"
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="94"
-         x="681" />
-      <image
-         style="fill:#808080"
-         id="image168"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAnklEQVQImS3BwUrDQBSG0e/emWkSIm1KpYJIFy7cZOmz9Cn7LC7d9g06CGIaSGZ+Nz3HxnHcAHy3rfh6r3CpgACCnk/Hadp026U0afgJb4deOWcBCsPw+hGcpyrvQvRUrOFl36855xpXswOAwwLLXyFxq7sFzms0amOYcEvUCNK98frL59UdQMiQTF5iMFJZYxjn2SIPQiYFA5k6GcA/E1k/eFhaKKIAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="94"
-         x="1003" />
-      <image
-         style="fill:#808080"
-         id="image170"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAkklEQVQImTXJMQ6CQBRF0fs/Q0JiSUFv4gZchzt1LZR09FQTookKw8w8Gz3tseFyvfEjfA9STC3L4Fv0fxgmsyIw2ccF4P/ATFabXMTRhFymrlMQvgvwyoHnF7TvPXtiPNcQpAimIg5o3w312ftjW7nXkFoW+5iakMuePfX+2OZ5PgCFwbfICaauE+O5rtwrIIAvEhxOZofuedIAAAAASUVORK5CYII="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="161"
-         x="1003" />
-      <image
-         style="fill:#808080"
-         id="image172"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAjklEQVQImUXKMQ6CQBQG4fl3FyGh0VAYE29Aaes1PLqWtsaGWGDAsPuejcGvnVHf95unNd1m4ZClTljNTwDQFBzkUnEhX+O1aTymXIqzyGJGWofI46xq+4oxhUrKCQsyCVCJcOPYtV5UYyTDWBJ8Aj5FgGEYfL9r81jqJQWbc47vUvso/gSXwOke+nkWwBenazovkiNAmwAAAABJRU5ErkJggg=="
-         preserveAspectRatio="none"
-         height="7"
-         width="7"
-         y="161"
-         x="681" />
-    </g>
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g176"
@@ -666,84 +414,51 @@
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g268"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g272">
-      <text
-         style="font-style:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text270"
-         font-style="normal"
-         font-weight="700"
-         font-size="14"
-         y="32"
-         x="86"
-         xml:space="preserve">muhammet ali petek</text>
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g276">
-      <text
-         style="font-style:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text274"
-         font-style="normal"
-         font-weight="700"
-         font-size="14"
-         y="53"
-         x="86"
-         xml:space="preserve">Top 11%</text>
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g280">
-      <text
-         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text278"
-         font-style="normal"
-         font-weight="400"
-         font-size="12"
-         y="53"
-         x="138"
-         xml:space="preserve"> in Worldwide</text>
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g284">
-      <text
-         style="font-style:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text282"
-         font-style="normal"
-         font-weight="700"
-         font-size="14"
-         y="74"
-         x="86"
-         xml:space="preserve">679.8</text>
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g288">
-      <text
-         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text286"
-         font-style="normal"
-         font-weight="400"
-         font-size="12"
-         y="74"
-         x="118"
-         xml:space="preserve"> CodersRank score</text>
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g292">
-      <text
-         style="font-style:normal;font-weight:700;font-size:12px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text290"
-         font-style="normal"
-         font-weight="700"
-         font-size="12"
-         y="111"
-         x="161.5"
-         xml:space="preserve">Top 50</text>
-    </g>
+    <text
+       xml:space="preserve"
+       x="86"
+       y="32"
+       font-size="14"
+       font-weight="700"
+       font-style="normal"
+       id="text270"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">muhammet ali petek</text>
+    <text
+       xml:space="preserve"
+       x="86"
+       y="53"
+       font-size="14"
+       font-weight="700"
+       font-style="normal"
+       id="text274"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Top 11%</text>
+    <text
+       xml:space="preserve"
+       x="140"
+       y="53"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="text278"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"> in Worldwide</text>
+    <text
+       xml:space="preserve"
+       x="86"
+       y="74"
+       font-size="14"
+       font-weight="700"
+       font-style="normal"
+       id="text282"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">679.8</text>
+    <text
+       xml:space="preserve"
+       x="124"
+       y="74"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="text286"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"> CodersRank score</text>
     <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g294"
@@ -773,42 +488,15 @@
        transform="matrix(0.0625,0,0,0.0625,139,125)"
        stroke-miterlimit="2" />
     <g
-       style="fill:#f7df1e;fill-opacity:1;stroke:none"
-       id="g308"
-       transform="matrix(0.0625,0,0,0.0625,139,125)">
-      <path
-         style="vector-effect:none;fill-rule:nonzero"
-         id="path306"
-         d="M 0,0 H 256 V 256 H 0 V 0" />
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g310"
        transform="matrix(0.0625,0,0,0.0625,139,125)"
        stroke-miterlimit="2" />
     <g
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="g314"
-       transform="matrix(0.0625,0,0,0.0625,139,125)">
-      <path
-         style="vector-effect:none;fill-rule:nonzero"
-         id="path312"
-         d="m 67.3117,213.932 19.591,-11.856 c 3.7794,6.701 7.2175,12.371 15.4643,12.371 7.905,0 12.889,-3.092 12.889,-15.12 v -81.798 h 24.058 v 82.138 c 0,24.917 -14.606,36.259 -35.916,36.259 -19.2447,0 -30.4161,-9.967 -36.0867,-21.996" />
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g316"
        transform="matrix(0.0625,0,0,0.0625,139,125)"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="g320"
-       transform="matrix(0.0625,0,0,0.0625,139,125)">
-      <path
-         style="vector-effect:none;fill-rule:nonzero"
-         id="path318"
-         d="m 152.381,211.354 19.588,-11.341 c 5.157,8.421 11.859,14.607 23.715,14.607 9.969,0 16.325,-4.984 16.325,-11.858 0,-8.248 -6.53,-11.17 -17.528,-15.98 l -6.013,-2.579 c -17.357,-7.388 -28.871,-16.668 -28.871,-36.258 0,-18.044 13.748,-31.792 35.229,-31.792 15.294,0 26.292,5.328 34.196,19.247 l -18.731,12.029 c -4.125,-7.389 -8.591,-10.31 -15.465,-10.31 -7.046,0 -11.514,4.468 -11.514,10.31 0,7.217 4.468,10.139 14.778,14.608 l 6.014,2.577 c 20.449,8.765 31.963,17.699 31.963,37.804 0,21.654 -17.012,33.51 -39.867,33.51 -22.339,0 -36.774,-10.654 -43.819,-24.574" />
-    </g>
     <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g322"
@@ -932,19 +620,6 @@
        id="g374"
        stroke-miterlimit="2" />
     <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g378">
-      <text
-         style="font-style:normal;font-size:12px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text376"
-         font-style="normal"
-         font-weight="630"
-         font-size="12"
-         y="137"
-         x="159"
-         xml:space="preserve">JavaScript</text>
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g380"
        stroke-miterlimit="2" />
@@ -965,19 +640,6 @@
        id="g388"
        stroke-miterlimit="2" />
     <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g392">
-      <text
-         style="font-style:normal;font-weight:400;font-size:10px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text390"
-         font-style="normal"
-         font-weight="400"
-         font-size="10"
-         y="160"
-         x="164"
-         xml:space="preserve">Turkey</text>
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g394"
        stroke-miterlimit="2" />
@@ -993,20 +655,6 @@
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g400"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g404"
-       transform="translate(-333,80)">
-      <text
-         style="font-style:normal;font-weight:700;font-size:12px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text402"
-         font-style="normal"
-         font-weight="700"
-         font-size="12"
-         y="111"
-         x="497.5"
-         xml:space="preserve">Top 5</text>
-    </g>
     <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g406"
@@ -1036,28 +684,10 @@
        transform="matrix(0.0507812,0,0,0.0507812,486,125.18)"
        stroke-miterlimit="2" />
     <g
-       style="fill:#ff3e00;fill-opacity:1;stroke:none"
-       id="g420"
-       transform="matrix(0.0507812,0,0,0.0507812,153,205.18)">
-      <path
-         style="vector-effect:none;fill-rule:nonzero"
-         id="path418"
-         d="M 239.682,40.7068 C 211.113,-0.181889 154.691,-12.3014 113.895,13.691 L 42.2469,59.3555 C 22.676,71.668 9.19582,91.6539 5.11197,114.412 c -3.41776,18.959 -0.41375,38.517 8.53643,55.576 -6.1329,9.303 -10.31581,19.753 -12.29591,30.719 -4.12333,23.195 1.27038,47.074 14.96351,66.244 28.5743,40.893 84.997,53.007 125.787,27.016 l 71.648,-45.664 c 19.572,-12.311 33.053,-32.298 37.135,-55.057 3.417,-18.959 0.415,-38.516 -8.531,-55.577 6.132,-9.303 10.313,-19.753 12.291,-30.718 4.126,-23.195 -1.268,-47.0745 -14.963,-66.2442" />
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g422"
        transform="matrix(0.0507812,0,0,0.0507812,486,125.18)"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="g426"
-       transform="matrix(0.0507812,0,0,0.0507812,153,205.18)">
-      <path
-         style="vector-effect:none;fill-rule:nonzero"
-         id="path424"
-         d="m 106.889,270.841 c -23.1018,6.007 -47.4975,-3.036 -61.1026,-22.648 -8.2386,-11.532 -11.4841,-25.896 -9.0033,-39.85 0.4158,-2.268 0.9881,-4.504 1.7127,-6.693 l 1.3497,-4.115 3.6718,2.697 c 8.4798,6.23 17.9612,10.968 28.0354,14.007 l 2.6637,0.808 -0.2454,2.659 c -0.3254,3.782 0.6986,7.557 2.8907,10.656 4.0943,5.908 11.4394,8.634 18.3968,6.828 1.5576,-0.416 3.0422,-1.069 4.4022,-1.935 l 71.6713,-45.672 c 3.545,-2.233 5.989,-5.854 6.733,-9.977 0.743,-4.206 -0.234,-8.534 -2.713,-12.011 -4.097,-5.909 -11.444,-8.637 -18.404,-6.832 -1.556,0.416 -3.038,1.068 -4.396,1.933 l -27.35,17.434 c -4.497,2.86 -9.405,5.015 -14.553,6.391 C 87.5477,190.528 63.1524,181.485 49.5475,161.872 41.3086,150.341 38.0631,135.976 40.5442,122.023 43.0003,108.334 51.11,96.3125 62.8835,88.909 L 134.548,43.2324 c 4.499,-2.8641 9.411,-5.0221 14.563,-6.3987 23.101,-6.0063 47.497,3.0363 61.101,22.6487 8.239,11.5315 11.485,25.8959 9.004,39.8494 -0.418,2.2672 -0.99,4.5032 -1.713,6.6922 l -1.35,4.116 -3.67,-2.693 c -8.479,-6.234 -17.961,-10.9734 -28.037,-14.0133 l -2.664,-0.8084 0.246,-2.6585 c 0.323,-3.7816 -0.701,-7.5556 -2.891,-10.6558 -4.094,-5.9078 -11.439,-8.634 -18.397,-6.8282 -1.557,0.4163 -3.042,1.0688 -4.402,1.9347 L 84.6672,120.092 c -3.5453,2.231 -5.9876,5.852 -6.7284,9.975 -0.7475,4.205 0.2286,8.534 2.7082,12.012 4.0968,5.909 11.4437,8.636 18.4039,6.832 1.5571,-0.417 3.0421,-1.07 4.4021,-1.935 l 27.345,-17.427 c 4.496,-2.864 9.403,-5.021 14.552,-6.397 23.101,-6.006 47.497,3.037 61.102,22.649 8.239,11.532 11.484,25.896 9.003,39.849 -2.458,13.691 -10.567,25.713 -22.339,33.12 l -71.665,45.673 c -4.499,2.864 -9.411,5.022 -14.563,6.398" />
-    </g>
     <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g428"
@@ -1181,20 +811,6 @@
        id="g480"
        stroke-miterlimit="2" />
     <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g484"
-       transform="translate(-333,80)">
-      <text
-         style="font-style:normal;font-size:12px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text482"
-         font-style="normal"
-         font-weight="630"
-         font-size="12"
-         y="137"
-         x="503"
-         xml:space="preserve">Svelte</text>
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g486"
        stroke-miterlimit="2" />
@@ -1215,20 +831,6 @@
        id="g494"
        stroke-miterlimit="2" />
     <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g498"
-       transform="translate(-333,80)">
-      <text
-         style="font-style:normal;font-weight:400;font-size:10px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text496"
-         font-style="normal"
-         font-weight="400"
-         font-size="10"
-         y="160"
-         x="497"
-         xml:space="preserve">Turkey</text>
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g500"
        stroke-miterlimit="2" />
@@ -1244,20 +846,6 @@
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g506"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g510"
-       transform="translate(-667,160)">
-      <text
-         style="font-style:normal;font-weight:700;font-size:12px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text508"
-         font-style="normal"
-         font-weight="700"
-         font-size="12"
-         y="111"
-         x="825.5"
-         xml:space="preserve">Top 100</text>
-    </g>
     <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g512"
@@ -1287,42 +875,15 @@
        transform="matrix(0.0588235,0,0,0.0633484,825.471,126)"
        stroke-miterlimit="2" />
     <g
-       style="fill:#41b883;fill-opacity:1;stroke:none"
-       id="g526"
-       transform="matrix(0.0588235,0,0,0.0633484,158.471,286)">
-      <path
-         style="vector-effect:none;fill-rule:nonzero"
-         id="path524"
-         d="M 204.8,0 H 256 L 128,220.8 0,0 H 50.56 97.92 L 128,51.2 157.44,0 h 47.36" />
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g528"
        transform="matrix(0.0588235,0,0,0.0633484,825.471,126)"
        stroke-miterlimit="2" />
     <g
-       style="fill:#41b883;fill-opacity:1;stroke:none"
-       id="g532"
-       transform="matrix(0.0588235,0,0,0.0633484,158.471,286)">
-      <path
-         style="vector-effect:none;fill-rule:nonzero"
-         id="path530"
-         d="M 0,0 128,220.8 256,0 H 204.8 L 128,132.48 50.56,0 H 0" />
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g534"
        transform="matrix(0.0588235,0,0,0.0633484,825.471,126)"
        stroke-miterlimit="2" />
-    <g
-       style="fill:#35495e;fill-opacity:1;stroke:none"
-       id="g538"
-       transform="matrix(0.0588235,0,0,0.0633484,158.471,286)">
-      <path
-         style="vector-effect:none;fill-rule:nonzero"
-         id="path536"
-         d="M 50.56,0 128,133.12 204.8,0 H 157.44 L 128,51.2 97.92,0 H 50.56" />
-    </g>
     <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g540"
@@ -1446,20 +1007,6 @@
        id="g592"
        stroke-miterlimit="2" />
     <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g596"
-       transform="translate(-667,160)">
-      <text
-         style="font-style:normal;font-size:12px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text594"
-         font-style="normal"
-         font-weight="630"
-         font-size="12"
-         y="137"
-         x="845"
-         xml:space="preserve">Vue</text>
-    </g>
-    <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
        id="g598"
        stroke-miterlimit="2" />
@@ -1480,18 +1027,203 @@
        id="g606"
        stroke-miterlimit="2" />
     <g
-       style="fill:#000000;fill-opacity:1;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-       id="g610"
-       transform="translate(-667,160)">
-      <text
-         style="font-style:normal;font-weight:400;font-size:10px;font-family:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none"
-         id="text608"
-         font-style="normal"
-         font-weight="400"
-         font-size="10"
-         y="160"
-         x="831"
-         xml:space="preserve">Turkey</text>
+       transform="translate(3.5942432)"
+       id="g5730">
+      <g
+         id="g5669"
+         transform="translate(12.743221,-2.6139946)">
+        <g
+           transform="matrix(1.0352682,0,0,1.7079569,-8.0742099,-83.296463)"
+           style="fill:#808080;fill-opacity:0.29803898;stroke:none"
+           id="g30">
+          <path
+             style="vector-effect:none;fill:#808080;fill-rule:evenodd"
+             id="path28"
+             d="m 21,101 h 315 v 60 H 21 v -60" />
+        </g>
+        <g
+           transform="translate(-3.6938753,8.066008)"
+           id="g5612">
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text290"
+             font-style="normal"
+             font-weight="700"
+             font-size="12"
+             y="111"
+             x="161.5"
+             xml:space="preserve">Top 50</text>
+          <g
+             transform="matrix(0.0625,0,0,0.0625,139,125)"
+             id="g308"
+             style="fill:#f7df1e;fill-opacity:1;stroke:none">
+            <path
+               d="M 0,0 H 256 V 256 H 0 V 0"
+               id="path306"
+               style="vector-effect:none;fill-rule:nonzero" />
+          </g>
+          <g
+             transform="matrix(0.0625,0,0,0.0625,139,125)"
+             id="g314"
+             style="fill:#000000;fill-opacity:1;stroke:none">
+            <path
+               d="m 67.3117,213.932 19.591,-11.856 c 3.7794,6.701 7.2175,12.371 15.4643,12.371 7.905,0 12.889,-3.092 12.889,-15.12 v -81.798 h 24.058 v 82.138 c 0,24.917 -14.606,36.259 -35.916,36.259 -19.2447,0 -30.4161,-9.967 -36.0867,-21.996"
+               id="path312"
+               style="vector-effect:none;fill-rule:nonzero" />
+          </g>
+          <g
+             transform="matrix(0.0625,0,0,0.0625,139,125)"
+             id="g320"
+             style="fill:#000000;fill-opacity:1;stroke:none">
+            <path
+               d="m 152.381,211.354 19.588,-11.341 c 5.157,8.421 11.859,14.607 23.715,14.607 9.969,0 16.325,-4.984 16.325,-11.858 0,-8.248 -6.53,-11.17 -17.528,-15.98 l -6.013,-2.579 c -17.357,-7.388 -28.871,-16.668 -28.871,-36.258 0,-18.044 13.748,-31.792 35.229,-31.792 15.294,0 26.292,5.328 34.196,19.247 l -18.731,12.029 c -4.125,-7.389 -8.591,-10.31 -15.465,-10.31 -7.046,0 -11.514,4.468 -11.514,10.31 0,7.217 4.468,10.139 14.778,14.608 l 6.014,2.577 c 20.449,8.765 31.963,17.699 31.963,37.804 0,21.654 -17.012,33.51 -39.867,33.51 -22.339,0 -36.774,-10.654 -43.819,-24.574"
+               id="path318"
+               style="vector-effect:none;fill-rule:nonzero" />
+          </g>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text376"
+             font-style="normal"
+             font-weight="630"
+             font-size="12"
+             y="137"
+             x="159"
+             xml:space="preserve">JavaScript</text>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text390"
+             font-style="normal"
+             font-weight="400"
+             font-size="10"
+             y="160"
+             x="164"
+             xml:space="preserve">Turkey</text>
+        </g>
+      </g>
+      <g
+         id="g5681"
+         transform="translate(12.743221,0.71443565)">
+        <g
+           id="g5651"
+           style="fill:#808080;fill-opacity:0.29803898;stroke:none"
+           transform="matrix(1.0352682,0,0,1.7079569,-8.0742099,19.180951)">
+          <path
+             d="m 21,101 h 315 v 60 H 21 v -60"
+             id="path5649"
+             style="vector-effect:none;fill:#808080;fill-rule:evenodd" />
+        </g>
+        <g
+           transform="translate(-3.417508,30.464321)"
+           id="g5601">
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text402"
+             font-style="normal"
+             font-weight="700"
+             font-size="12"
+             y="191"
+             x="164.5"
+             xml:space="preserve">Top 5</text>
+          <g
+             transform="matrix(0.0507812,0,0,0.0507812,153,205.18)"
+             id="g420"
+             style="fill:#ff3e00;fill-opacity:1;stroke:none">
+            <path
+               d="M 239.682,40.7068 C 211.113,-0.181889 154.691,-12.3014 113.895,13.691 L 42.2469,59.3555 C 22.676,71.668 9.19582,91.6539 5.11197,114.412 c -3.41776,18.959 -0.41375,38.517 8.53643,55.576 -6.1329,9.303 -10.31581,19.753 -12.29591,30.719 -4.12333,23.195 1.27038,47.074 14.96351,66.244 28.5743,40.893 84.997,53.007 125.787,27.016 l 71.648,-45.664 c 19.572,-12.311 33.053,-32.298 37.135,-55.057 3.417,-18.959 0.415,-38.516 -8.531,-55.577 6.132,-9.303 10.313,-19.753 12.291,-30.718 4.126,-23.195 -1.268,-47.0745 -14.963,-66.2442"
+               id="path418"
+               style="vector-effect:none;fill-rule:nonzero" />
+          </g>
+          <g
+             transform="matrix(0.0507812,0,0,0.0507812,153,205.18)"
+             id="g426"
+             style="fill:#ffffff;fill-opacity:1;stroke:none">
+            <path
+               d="m 106.889,270.841 c -23.1018,6.007 -47.4975,-3.036 -61.1026,-22.648 -8.2386,-11.532 -11.4841,-25.896 -9.0033,-39.85 0.4158,-2.268 0.9881,-4.504 1.7127,-6.693 l 1.3497,-4.115 3.6718,2.697 c 8.4798,6.23 17.9612,10.968 28.0354,14.007 l 2.6637,0.808 -0.2454,2.659 c -0.3254,3.782 0.6986,7.557 2.8907,10.656 4.0943,5.908 11.4394,8.634 18.3968,6.828 1.5576,-0.416 3.0422,-1.069 4.4022,-1.935 l 71.6713,-45.672 c 3.545,-2.233 5.989,-5.854 6.733,-9.977 0.743,-4.206 -0.234,-8.534 -2.713,-12.011 -4.097,-5.909 -11.444,-8.637 -18.404,-6.832 -1.556,0.416 -3.038,1.068 -4.396,1.933 l -27.35,17.434 c -4.497,2.86 -9.405,5.015 -14.553,6.391 C 87.5477,190.528 63.1524,181.485 49.5475,161.872 41.3086,150.341 38.0631,135.976 40.5442,122.023 43.0003,108.334 51.11,96.3125 62.8835,88.909 L 134.548,43.2324 c 4.499,-2.8641 9.411,-5.0221 14.563,-6.3987 23.101,-6.0063 47.497,3.0363 61.101,22.6487 8.239,11.5315 11.485,25.8959 9.004,39.8494 -0.418,2.2672 -0.99,4.5032 -1.713,6.6922 l -1.35,4.116 -3.67,-2.693 c -8.479,-6.234 -17.961,-10.9734 -28.037,-14.0133 l -2.664,-0.8084 0.246,-2.6585 c 0.323,-3.7816 -0.701,-7.5556 -2.891,-10.6558 -4.094,-5.9078 -11.439,-8.634 -18.397,-6.8282 -1.557,0.4163 -3.042,1.0688 -4.402,1.9347 L 84.6672,120.092 c -3.5453,2.231 -5.9876,5.852 -6.7284,9.975 -0.7475,4.205 0.2286,8.534 2.7082,12.012 4.0968,5.909 11.4437,8.636 18.4039,6.832 1.5571,-0.417 3.0421,-1.07 4.4021,-1.935 l 27.345,-17.427 c 4.496,-2.864 9.403,-5.021 14.552,-6.397 23.101,-6.006 47.497,3.037 61.102,22.649 8.239,11.532 11.484,25.896 9.003,39.849 -2.458,13.691 -10.567,25.713 -22.339,33.12 l -71.665,45.673 c -4.499,2.864 -9.411,5.022 -14.563,6.398"
+               id="path424"
+               style="vector-effect:none;fill-rule:nonzero" />
+          </g>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text482"
+             font-style="normal"
+             font-weight="630"
+             font-size="12"
+             y="217"
+             x="170"
+             xml:space="preserve">Svelte</text>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text496"
+             font-style="normal"
+             font-weight="400"
+             font-size="10"
+             y="240"
+             x="164"
+             xml:space="preserve">Turkey</text>
+        </g>
+      </g>
+      <g
+         id="g5693"
+         transform="translate(8.1687307,-14.37697)">
+        <g
+           transform="matrix(1.0352682,0,0,1.7079569,-3.4997194,140.0782)"
+           style="fill:#808080;fill-opacity:0.29803898;stroke:none"
+           id="g5655">
+          <path
+             style="vector-effect:none;fill:#808080;fill-rule:evenodd"
+             id="path5653"
+             d="m 21,101 h 315 v 60 H 21 v -60" />
+        </g>
+        <g
+           transform="translate(-1.2416035,71.440671)"
+           id="g5621">
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text508"
+             font-style="normal"
+             font-weight="700"
+             font-size="12"
+             y="271"
+             x="158.5"
+             xml:space="preserve">Top 100</text>
+          <g
+             transform="matrix(0.0588235,0,0,0.0633484,158.471,286)"
+             id="g532"
+             style="fill:#41b883;fill-opacity:1;stroke:none">
+            <path
+               d="M 0,0 128,220.8 256,0 H 204.8 L 128,132.48 50.56,0 H 0"
+               id="path530"
+               style="vector-effect:none;fill-rule:nonzero" />
+          </g>
+          <g
+             transform="matrix(0.0588235,0,0,0.0633484,158.471,286)"
+             id="g538"
+             style="fill:#35495e;fill-opacity:1;stroke:none">
+            <path
+               d="M 50.56,0 128,133.12 204.8,0 H 157.44 L 128,51.2 97.92,0 H 50.56"
+               id="path536"
+               style="vector-effect:none;fill-rule:nonzero" />
+          </g>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text594"
+             font-style="normal"
+             font-weight="630"
+             font-size="12"
+             y="297"
+             x="178"
+             xml:space="preserve">Vue</text>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+             id="text608"
+             font-style="normal"
+             font-weight="400"
+             font-size="10"
+             y="320"
+             x="164"
+             xml:space="preserve">Turkey</text>
+        </g>
+      </g>
     </g>
     <g
        style="fill:#0000ee;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
